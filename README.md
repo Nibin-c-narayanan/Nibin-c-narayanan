@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nibin narayanan
 - 👀 I’m interested in knowing about computer and how to make use of it   
-- 🌱 I’m currently learning c++ programming languages
+- 🌱 I’m currently learning c++ language
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
